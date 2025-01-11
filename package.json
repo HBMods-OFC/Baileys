@@ -19,7 +19,7 @@
   "main": "src/index.js",
   "types": "src/index.d.ts",
   "files": [
-    "lib/*",
+    "src/*",
     "WAProto/*",
     "WASignalGroup/*.js"
   ],
